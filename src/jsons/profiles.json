@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "08 May 2003" },
+    {
+      "website": "<a target='blank' href='//'>//</a>"
+    },
+    { "phone": "+63 970-122-3271" },
+    { "address": "Guiwanon, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>rodylinbernales339@gmail.com</a>" },
+    { "freelance": "Available"}
+  ],
+  "data_3": [
+    "Guiwanon, Tubigon, Bohol, Philippines",
+    "+63 970-122-3271",
+    "<a href='mailto:someone@example.com'>rodylinbernales339@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021-2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2015-2019",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2008-2015",
+      "school": "Guiwanon Elementary School",
+      "address": "Guiwanon, Tubigon, Bohol"
+    }
+  ]
+}

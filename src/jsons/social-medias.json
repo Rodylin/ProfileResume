@@ -1,0 +1,11 @@
+{
+  "medias": [
+    {
+      "name": "linkedin",
+      "link": ""
+    },
+    { "name": "facebook", "link": "https://www.facebook.com/profile.php?id=100070612180120" },
+    {"name": "tiktok", "link": "https://www.tiktok.com/@rodylinbernales86"},
+    {"name": "youtube", "link": "https://www.youtube.com/@JamRods" }
+  ]
+}
