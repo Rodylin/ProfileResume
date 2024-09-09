@@ -2,14 +2,14 @@ export const NAME = 'Rodylin Bernales';
 
 // ABOUT PAGE
 export const ABOUT_TEXT_1 =
-  'Aspiring software developer currently studying computer science, eager to learn and grow in the field of software development. Enthusiastic about coding, problem-solving, and building applications that make a difference.';
+"Designing Computer-Style Interfaces introduces students and beginners to the basics of creating visually appealing digital interfaces. It focuses on essential design elements like typography, color schemes, layout, and icons, emphasizing both functionality and visual appeal. By exploring real-world examples, beginners can learn how to blend creativity with technology to craft engaging and user-friendly interfaces.";
 export const ABOUT_TEXT_2 =
-  'Dedicated to developing skills in both frontend and backend web development. I enjoy working on projects that challenge my abilities and push me to expand my knowledge of programming languages, frameworks, and tools.';
+  'Introduces students to the basics of creating visually engaging and functional digital interfaces. It teaches beginners how to combine design elements like layout, color, and typography to craft user-friendly experiences.';
 export const ABOUT_TEXT_3 =
-  'Versatile student proficient in the basics of web development. I am currently building my skills in various programming languages, frameworks, and databases, aiming to become a full-stack developer capable of creating complete web applications.';
+  '"Digital Aesthetics: Designing Computer-Style Interfaces" teaches students the basics of interface design, focusing on elements like color, layout, and typography. It encourages beginners to explore design tools and create visually appealing, functional interfaces. The goal is to blend creativity with design principles to improve user experience.';
 
 // RESUME PAGE
 export const RESUME_TEXT_1 =
-  'Computer science student with hands-on experience in building websites and small-scale web applications using modern JavaScript tools and frameworks. I am continuously expanding my knowledge of both front-end and back-end technologies, as well as database management.';
+  'As a student and beginner, "Digital Aesthetics: Designing Computer-Style Interfaces" is a great way to learn the basics of creating attractive and user-friendly digital designs. It focuses on key elements like color, layout, and typography, making complex concepts easier to understand. This approach allows you to explore your creativity while building practical skills in interface design.';
 export const RESUME_TEXT_2 =
-  'Student developer passionate about coding and eager to gain more experience in web development, focusing on learning the latest technologies and best practices in the industry.';
+  'As a student and beginner, I am exploring "Digital Aesthetics: Designing Computer-Style Interfaces" to build foundational skills in creating visually engaging and user-friendly digital designs. I am learning to use key design elements such as color, layout, and typography to craft effective interfaces. This experience is helping me blend creativity with practical design principles to enhance user experiences.';

@@ -50,7 +50,7 @@ const About = () => {
             <img src={ProfileImg} className="img-fluid" alt="" />
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Full Stack Developer (ReactJS / NodeJS)</h3>
+            <h3>"Digital Aesthetics: Designing Computer-Style Interfaces"</h3>
             <p className="fst-italic">{ABOUT_TEXT_2}</p>
             <div className="row">
               <div className="col-lg-6">
